@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://www.gambaranimasi.org/data/media/200/animasi-bergerak-jerapah-0008.gif" alt="adam-pw" /></p>
+<p><img align="right" width='50px' src="https://www.gambaranimasi.org/data/media/200/animasi-bergerak-jerapah-0008.gif" alt="adam-pw" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
