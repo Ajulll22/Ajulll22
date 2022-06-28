@@ -102,4 +102,4 @@
 
 ## 🎵 Music
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&redirect=true)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Julio-Rizki)
