@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Ajulll22&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -13,9 +13,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 📫 How to reach me **ajulrizki@gmail.com**
 
 <br>
 
@@ -101,3 +99,7 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+## 🎵 Music
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&redirect=true)
